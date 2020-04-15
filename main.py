@@ -30,10 +30,8 @@ TAB_CONTROL.place(width=600, height=350, x=20, y=80)
 
 
 ### Default Info Section
-Button(DEFAULT, text="This project dedicated for Mini project of OSTL (SEM IV)......").place(x=10, y=20)
-Button(DEFAULT, text="This developed by,").place(x=10, y=60)
-Button(DEFAULT, text="IRSHAD AHMED -> 3118057 \n SULTAN MALIK -> 3118060 \n MAHDI RIZVI -> 3118061").place(x=10, y=100)
-Button(DEFAULT, text="......Under the guidance of Prof. ASADULLAH").place(x=200, y=200)
+Button(DEFAULT, text="This project Steganography project......").place(x=10, y=20)
+Button(DEFAULT, text="This will help to hide and retrive text in images...").place(x=10, y=60)
 
 ### Hide Section
 # Variables
