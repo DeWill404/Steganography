@@ -1,3 +1,11 @@
+# This code required Third party modlue
+#	following code for line 1 to 7
+# 	Check if required module is present in system or not...
+from Dependencies import check_module
+check_module({'cryptography', 'pillow'})
+# Module Checking end...
+# Remove This part if not required.... :)
+
 import os
 from tkinter import *
 from tkinter import ttk, filedialog, messagebox
